@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: steelblue;
+    background-image: url(https://i.ibb.co/vQTQLrZ/Gif.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #tablero{
+      background-color: rgb(128, 128, 0);
+      color: black;
+      
+
+  }
